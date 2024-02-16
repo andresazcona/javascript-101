@@ -1,3 +1,5 @@
+const { sum } = require("./solutions.js");
+const { expect } = require("jest");
 const {
   sum,
   factorial,
